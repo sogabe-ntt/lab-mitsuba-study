@@ -8,6 +8,8 @@
 https://mitsuba.readthedocs.io/en/stable/
 
 # その他あったほうがいいもの
+
 - blender
+  
 objやplyファイルの確認や微調整に。
 
